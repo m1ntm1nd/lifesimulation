@@ -2,7 +2,7 @@ import argparse
 import numpy as np 
 import matplotlib.pyplot as plt  
 import matplotlib.animation as animation #asdasd
-  
+  #assadasd
 # setting up the values for the grid 
 ON = 255
 OFF = 0
